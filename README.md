@@ -29,6 +29,7 @@ At least 10 days would be gained on average if that bottleneck was resolved.
 
 - Explanation of my "Candidate's Choice" addition:
   It is important to know the cause of the delays so that it can be fixed. It is the logical next step after confirming the delays.
+  As I was not able to figure out the cause, the least I could do was to orient to where to look. And it turns out the delay comes from the carrier. 
 
 ---
 
