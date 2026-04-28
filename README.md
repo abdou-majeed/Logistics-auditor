@@ -4,7 +4,7 @@
 
 1. There is an overall decrease in user satisfaction as packages are late. On average, 1 review point is lost in the first 5 days of delay.
 
-2. The total proportion of late orders is less than 10%, however the states of Alagoas and Maranhão are disproportionately affacted. Respectively 25% and 20% of the orders from those states are late.
+2. The total proportion of late orders is less than 10%, however the states of Alagoas and Maranhão are disproportionately affected. Respectively 25% and 20% of the orders from those states are late.
 
 3. The distance between buyers and sellers does not affect the delivery delays.
 
