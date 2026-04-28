@@ -16,7 +16,7 @@ At least 10 days would be gained on average if that bottleneck was resolved.
 ## B. Project Links
 
 - **Link to Notebook:** [Colab](https://colab.research.google.com/drive/121TCGFqJR8kFKk-34pUSXC_ZGhS7xabT?usp=sharing)
-- **Link to Dashboard:** (e.g., Tableau Public, etc.).
+- **Link to Dashboard:** [Tableau Public](https://public.tableau.com/app/profile/abc.1237160/viz/TheLastMileLogisticsAuditor/Tableaudebord1)
 - **Link to Presentation:** [Slides](https://docs.google.com/presentation/d/1sj1eOho_PCFLIEdsGQ1JFY0hzBuTU5lEpkt4fanVOj4/edit?usp=sharing)
 
 ### C. Technical Explanation
