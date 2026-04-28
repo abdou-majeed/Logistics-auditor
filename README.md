@@ -1,5 +1,36 @@
 # Project Brief: The "Last Mile" Logistics Auditor
 
+## A. Executive Summary
+
+1. There is an overall decrease in user satisfaction as packages are late. On average, 1 review point is lost in the first 5 days of delay.
+
+2. The total proportion of late orders is less than 10%, however the states of Alagoas and Maranhão are disproportionately affacted. Respectively 25% and 20% of the orders from those states are late.
+
+3. The distance between buyers and sellers does not affect the delivery delays.
+
+4. The largest delays occur between delivery to the carrier and delivery to the customer.
+At least 10 days would be gained on average if that bottleneck was resolved.
+
+---
+
+## B. Project Links
+
+- **Link to Notebook:** [Colab](https://colab.research.google.com/drive/121TCGFqJR8kFKk-34pUSXC_ZGhS7xabT?usp=sharing)
+- **Link to Dashboard:** (e.g., Tableau Public, etc.).
+- **Link to Presentation:** [Slides](https://docs.google.com/presentation/d/1sj1eOho_PCFLIEdsGQ1JFY0hzBuTU5lEpkt4fanVOj4/edit?usp=sharing)
+
+### C. Technical Explanation
+
+- Brief explanation of the "Data Cleaning":
+  1. I looked for duplicates (full rows or selected columns) and removed them where it didn't make sense to have duplicates.
+  2. I first tried to understand the different order_status so that I could identify scenarios that didn't make sense.
+  3. The Geolocation dataset was the toughest: I had to exclude outliers based on inter-quartiles distances, and ultimately settle for a median value where I wished I had a good average.
+
+- Explanation of my "Candidate's Choice" addition:
+  It is important to know the cause of the delays so that it can be fixed. It is the logical next step after confirming the delays.
+
+---
+
 **Client:** Veridi Logistics (Global E-Commerce Aggregator)
 **Deliverable:** Public Dashboard, Code Notebook & Insight Presentation
 
