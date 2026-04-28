@@ -23,8 +23,9 @@ At least 10 days would be gained on average if that bottleneck was resolved.
 
 - Brief explanation of the "Data Cleaning":
   1. I looked for duplicates (full rows or selected columns) and removed them where it didn't make sense to have duplicates.
-  2. I first tried to understand the different order_status so that I could identify scenarios that didn't make sense.
+  2. I first tried to understand the different ``order_status`` so that I could identify scenarios that didn't make sense.
   3. The Geolocation dataset was the toughest: I had to exclude outliers based on inter-quartiles distances, and ultimately settle for a median value where I wished I had a good average.
+     I also tried using other cleaner datasets as a replacement, but none of the free datasets I could find were as complete as the Olist dataset. 
 
 - Explanation of my "Candidate's Choice" addition:
   It is important to know the cause of the delays so that it can be fixed. It is the logical next step after confirming the delays.
